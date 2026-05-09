@@ -20,3 +20,5 @@ This project is a deep learning-based object detection system that detects traff
 Dataset: TabelaTanıma
 Source: https://universe.roboflow.com/deneme-o9iiw/tabelatanima-jg4kg/dataset/1
 Format: YOLO format (converted)
+
+<img width="1500" height="500" alt="Code_Generated_Image" src="https://github.com/user-attachments/assets/48504b67-8c94-4847-b3fd-024945bcf517" />
