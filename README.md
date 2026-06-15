@@ -18,7 +18,12 @@ This project is a deep learning-based object detection system that detects traff
   *Lightweight and fast detection pipeline.
 
 Dataset: TabelaTanıma
-Source: https://universe.roboflow.com/deneme-o9iiw/tabelatanima-jg4kg/dataset/1
+Source: [https://universe.roboflow.com/deneme-o9iiw/tabelatanima-jg4kg/dataset/1](https://app.roboflow.com/deneme-o9iiw/tabelatanima-3s07v/1)
 Format: YOLO format (converted)
 
-<img width="1500" height="500" alt="Code_Generated_Image" src="https://github.com/user-attachments/assets/48504b67-8c94-4847-b3fd-024945bcf517" />
+<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/9acc8e60-7956-4dbe-81db-9c89037b31db" />
+
+<img width="1500" height="500" alt="image" src="https://github.com/user-attachments/assets/13d12cf2-0565-46a9-b33f-09ced6f2a399" />
+
+<img width="3000" height="2250" alt="confusionMatrixTabelaTanıma" src="https://github.com/user-attachments/assets/53cdfd1a-8ff1-4cec-a414-58e62b212c68" />
+
