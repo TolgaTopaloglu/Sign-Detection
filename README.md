@@ -2,7 +2,7 @@
 
 
 => Sign Detection with YOLO (Ultralytics)
-This project is a deep learning-based object detection system that detects traffic and street signs using a model trained with Ultralytics YOLOv11. The model was trained on a dataset imported from Roboflow containing 6,424 images across 26 classes. The trained model is used in Python for inference on images to identify and localize signs using bounding box predictions. The main goal of this project is to demonstrate a real-world application of object detection using a custom-trained dataset.
+This project is a deep learning-based object detection system that detects traffic and street signs using a model trained with Ultralytics YOLOv11. The model was trained on a dataset imported from Roboflow containing 7,796 images across 26 classes. The trained model is used in Python for inference on images to identify and localize signs using bounding box predictions. The main goal of this project is to demonstrate a real-world application of object detection using a custom-trained dataset.
 
 => The purpose and objectives of this project.
   *Train a custom object detection model for sign recognition.
