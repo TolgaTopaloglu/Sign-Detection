@@ -1,0 +1,13 @@
+# YOLO outputs and downloaded datasets
+runs/
+datasets/
+*.cache
+yolo11*.pt
+
+# Jupyter / Python
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+
+# Secrets
+.env
